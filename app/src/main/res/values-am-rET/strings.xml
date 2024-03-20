@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ሹክታ የውይይት መተግበሪያ</string>
+    <string name="enter_email">ኢሜይል አስገባ</string>
+    <string name="enter_password">የይለፍ ቃል ያስገቡ</string>
+    <string name="sign_up">ተመዝገብ</string>
+    <string name="login">ግባ</string>
+    <string name="change_ኢት">ኢት</string>
+    <string name="cancel">ይሰርዙ</string>
+    <string name="sign_out">ዘግተህ ውጣ</string>
+    <string name="write_your_message">መልእክትዎን እዚህ ይፃፉ</string>
+    <string name="write_your_message_here">መልእክትዎን እዚህ ይፃፉ</string>
+    <string name="en">EN</string>
+</resources>

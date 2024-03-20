@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043464893919",
+    "project_id": "pragmatic-blend-355802",
+    "storage_bucket": "pragmatic-blend-355802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043464893919:android:4d711b3997cc8183fd006a",
+        "android_client_info": {
+          "package_name": "com.mikucode.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043464893919-dhb9dsahvhm1mspaqaa4bdtvlj3tr8m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6kEeNpybVZgLBRAEyajx_UQIBL-sU-6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043464893919-dhb9dsahvhm1mspaqaa4bdtvlj3tr8m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shukta chatApp</string>
+    <string name="cancel">cancel</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="write_your_message">Write your Message here</string>
+    <string name="write_your_message_here">Write Your Message Here</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="login">login</string>
+    <string name="change_ኢት">ኢት</string>
+    <string name="en">EN</string>
+</resources>

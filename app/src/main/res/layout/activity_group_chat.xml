@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GroupChat"
+    android:padding="5dp">
+
+<androidx.recyclerview.widget.RecyclerView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/groups_chatlist"
+    android:layout_marginBottom="120dp"
+    />
+
+<LinearLayout
+    android:id="@+id/messageArea"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_marginBottom="60dp"
+    android:orientation="horizontal"
+
+    >
+   <EditText
+       android:id="@+id/msgBox"
+       android:layout_width="0dp"
+       android:layout_height="match_parent"
+       android:background="@drawable/box_shapes"
+       android:layout_weight="80"
+       android:inputType="textLongMessage"
+       android:hint="@string/write_your_message_here"
+       android:padding="5dp"
+       android:textColor="@color/black"
+       android:autofillHints="" />
+    <ImageView
+        android:id="@+id/sendBtn"
+        android:layout_width="40dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_send"/>
+</LinearLayout>
+
+    <include layout="@layout/bottom_nav_menu" android:id="@+id/mainMenu" />
+
+</RelativeLayout>
